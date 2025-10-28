@@ -13,6 +13,8 @@
 La interfaz combina la estética **minimalista y elegante de Apple** con una experiencia totalmente funcional sin ratón ni teclado.  
 El sistema permite explorar la historia completa de Apple, sus productos, curiosidades y biografías de sus fundadores mediante menús táctiles y ventanas modales informativas.
 
+** El proyecto se encuentra privado en otro repositorio**. Si estas interesado por el ponte en contacto conmigo en: **[KandadosDev](mailto:astrodenacl@gmail.com)**
+
 ---
 
 ## ✨ Características principales
